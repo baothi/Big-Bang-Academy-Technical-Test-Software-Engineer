@@ -1,0 +1,36 @@
+{
+"users": [
+    {
+      "id": 1,
+      "name": "John Doe"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith"
+    },
+    {
+      "id": 3,
+      "name": "Sebastian"
+    },
+    {
+      "id": 4,
+      "name": "Eschweiler"
+    },
+    {
+      "id": 5,
+      "name": "Steve"
+    },
+    {
+      "id": 6,
+      "name": "Palmer"
+    },
+    {
+      "id": 7,
+      "name": "Smith"
+    },
+    {
+      "id": 8,
+      "name": "Ann"
+    }
+  ]
+}
